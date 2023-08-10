@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/onfire/static/js/main.adae9b12.js",
+    "main.js": "/onfire/static/js/main.082b1941.js",
     "index.html": "/onfire/index.html",
-    "main.adae9b12.js.map": "/onfire/static/js/main.adae9b12.js.map"
+    "main.082b1941.js.map": "/onfire/static/js/main.082b1941.js.map"
   },
   "entrypoints": [
-    "static/js/main.adae9b12.js"
+    "static/js/main.082b1941.js"
   ]
 }

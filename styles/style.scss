@@ -295,6 +295,14 @@ MAKE FIRE SECTION
     }
 }
 
+.accordion:nth-child(1) {
+    border-radius: 20px 20px 0 0 !important;
+}
+
+.accordion:nth-of-type(5) {
+    border-radius: 0 0 20px 20px !important;
+}
+
 /*
 ******************************************
 STORIES SECTION
